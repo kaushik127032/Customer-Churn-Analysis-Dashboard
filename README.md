@@ -4,12 +4,12 @@ A Power BI dashboard project that analyzes customer churn behavior and identifie
 
 ## Project Flags
 
-* 📊 Interactive Power BI Dashboard
-* 📈 Customer Churn Analysis
-* 📉 Retention & Churn Insights
-* 🧹 Data Cleaning in Excel
-* 📌 KPI & DAX Measures
-* 📍 Business Intelligence Project
+*  Interactive Power BI Dashboard
+*  Customer Churn Analysis
+*  Retention & Churn Insights
+*  Data Cleaning in Excel
+*  KPI & DAX Measures
+*  Business Intelligence Project
 
 ## Table of Contents
 
@@ -73,7 +73,7 @@ The dataset contains **7,043 customer records** with information such as:
 ## Files Included
 
 * `Customer_Churn.pbix` – Power BI dashboard file
-* `Customer_Churn_Dataset.xlsx` – Excel dataset
+* `telco_churn_clean` – Excel dataset
 * `dashboard.png` – Dashboard preview image
 * `README.md` – Project documentation
 
